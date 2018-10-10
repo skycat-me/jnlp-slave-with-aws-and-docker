@@ -1,6 +1,6 @@
-# Jenkins JNLP Agent Docker image with Docker and AWS
+# Jenkins JNLP Slave image with Docker and AWS
 
- Jenkins JNLP Agent Docker image に
+ jenkins/jnlp-slave に
  Docker & awscli 使えるようにいろいろ足しただけ。
  
  ## Dokcer in Docker
