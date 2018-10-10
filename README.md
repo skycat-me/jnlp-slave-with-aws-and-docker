@@ -1,8 +1,6 @@
 # Jenkins JNLP Slave image with Docker and AWS
+Docker Image that added Docker & awscli to jenkins / jnlp-slave.
 
- jenkins/jnlp-slave に
- Docker & awscli 使えるようにいろいろ足しただけ。
- 
  ## Dokcer in Docker
  ### Dokcer run
  ####  Add dokcer run option
