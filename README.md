@@ -9,3 +9,7 @@ Docker Image that added Docker & awscli to jenkins / jnlp-slave.
  ### ECS
  #### Add Task setting
  ``Container Path	and  Source Volume`` :  **/var/run/docker.sock**
+
+### Docker Hub
+skycat/jnlp-slave-with-aws-and-docker - Docker Hub
+https://hub.docker.com/r/skycat/jnlp-slave-with-aws-and-docker/
